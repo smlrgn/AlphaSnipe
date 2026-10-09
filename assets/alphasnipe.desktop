@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=AlphaSnipe
+Comment=Screenshot utility — rectangle, freeform, window and fullscreen snips
+Exec=alphasnipe
+Icon=alphasnipe
+Terminal=false
+Categories=Utility;Graphics;Photography;
+Keywords=screenshot;snip;capture;screen;
+StartupNotify=true
+StartupWMClass=AlphaSnipe
